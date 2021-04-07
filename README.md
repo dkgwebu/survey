@@ -1,4 +1,4 @@
-[![Survey with Reactjs thumb](https://prod.smassets.net/assets/cms/cc/uploads/Screen-Shot-2020-06-17-at-2.51.59-PM.png)
+![Survey with Reactjs thumb](https://prod.smassets.net/assets/cms/cc/uploads/Screen-Shot-2020-06-17-at-2.51.59-PM.png)
 
 # Survey with Reactjs
 
